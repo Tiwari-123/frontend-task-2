@@ -7,7 +7,7 @@ This repository contains the solution for **Task 2**, where a reusable React com
 - **CSS Modules** for component-level styling
 - **No external UI libraries**
 
-## LIVE DEMPO --->https://frontend-task-2-mu.vercel.app/
+## LIVE DEMO--->https://frontend-task-2-mu.vercel.app/
 
 
 ## 📦 Features
